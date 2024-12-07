@@ -1,16 +1,12 @@
-## Hi there 👋
+## Hi there 👋 I am Łukasz
 
+💻 _whoami_
+
+- 🌍 A passionate developer, mainly focused on web-dev world
+- ✨ React specialist
+- 🧑‍💻 Professional Dev for over 5 years (currently in [JIT](https://jit.team/))
+- 🚢 Trying my best building startups ([Dylli](https://www.linkedin.com/company/dylli))
+- 🔭 Love trying new technologies, R&D, business development
+- 📫 Reach me at: https://lciskowski.vercel.app/
+- 😼 Fun fact: I have 4 cats
 <!--
-**lukasz-ciskowski/lukasz-ciskowski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
